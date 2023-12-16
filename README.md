@@ -3,6 +3,8 @@
 
 The code provided is for a Streamlit app named "Crash Severity AutoML." This app is designed to analyze crash severity data using automated machine learning (AutoML) methods. It allows users to upload CSV files containing crash data, select features and target variables for modeling, and handle data imbalances using SMOTE (Synthetic Minority Over-sampling Technique).
 
+![Methodology](https://github.com/pozapas/CrashAutoML/blob/main/Methodology.svg)
+
 Key features of the app include:
 
 - **Data Upload and Preview**: Users can upload their crash data in CSV format and preview it in the app.
