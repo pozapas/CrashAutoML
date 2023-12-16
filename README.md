@@ -15,3 +15,24 @@ Key features of the app include:
 - **Model Visualization**: The app generates various visualizations such as feature importance, confusion matrix, AUC-ROC curve, precision-recall curve, error analysis, class report, learning curve, and validation curve for the selected best model.
   
 The repository will serve as a resource for users interested in crash severity analysis using AutoML and a showcase for the capabilities of Streamlit in creating interactive data science applications.
+
+## Running Streamlit app locally
+The Crash AutoML app require Python and the following Python packages installed:
+- streamlit
+- pandas
+- matplotlib
+- pycaret
+  
+To install the Python packages, navigate to the local directory where you have cloned this repository and run the following command:
+```bash
+pip install -r requirements.txt
+```
+So, If you want to run the Crash AutoML app as a Streamlit app, follow these steps:
+- **Navigate to your project directory:**
+```bash
+cd directory path
+```
+- **Run your Streamlit app:**
+```bash
+streamlit run AutoML.py
+```
