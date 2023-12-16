@@ -34,5 +34,5 @@ cd directory path
 ```
 - **Run your Streamlit app:**
 ```bash
-streamlit run AutoML.py
+streamlit run Automl.py
 ```
