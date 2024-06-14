@@ -1,7 +1,8 @@
-# CrashAutoML
-## Crash Severity Analysis using Automated Machine Learning (AutoML) method
+# Crash Severity Analysis using Automated Machine Learning (AutoML) method
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7194992.svg)](https://doi.org/10.1061/9780784485514.039)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2406.06624)
 
-The code provided is for a Streamlit app named "Crash Severity AutoML." This app is designed to analyze crash severity data using automated machine learning (AutoML) methods. It allows users to upload CSV files containing crash data, select features and target variables for modeling, and handle data imbalances using SMOTE (Synthetic Minority Over-sampling Technique).
+The provided code is for a Streamlit app named "Crash Severity AutoML." This app is designed to analyze crash severity data using automated machine learning (AutoML) methods. It allows users to upload CSV files containing crash data, select features and target variables for modeling, and handle data imbalances using SMOTE (Synthetic Minority Over-sampling Technique).
 
 ![Methodology](https://github.com/pozapas/CrashAutoML/blob/main/Methodology.svg)
 
